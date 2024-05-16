@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|c:\\users\\kaya\\desktop\\diff\\car-renting-main\\car-renting\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frentsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frentsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fbilldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fbilldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\rentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\rentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\model\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\model\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fcarreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fcarreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fbilldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fbilldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\bus\\carreturnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\bus\\carreturnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\bus\\discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\bus\\discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\ratingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\ratingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\utilites\\contraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\utilites\\contraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\utilites\\pdfgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\utilites\\pdfgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\utilites\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\utilites\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fdashboarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fdashboarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fdashboarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fdashboarduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frentcancel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frentcancel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frentsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frentsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\frenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\frenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fsubmitcarreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fsubmitcarreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fstatusrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fstatusrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\gui\\fdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\gui\\fdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\car-renting\\dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DBF95-ACD5-4E29-AA8B-A856AFA6E6D0}|Car-Renting\\Car-Renting.csproj|solutionrelative:car-renting\\dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DbConnection.cs",
+              "RelativeToolTip": "Car-Renting\\DbConnection.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowGcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fRentSubmit.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRentSubmit.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRentSubmit.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRentSubmit.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fRentSubmit.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAMwHMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\CarDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\CarDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\CarDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\CarDAO.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwCIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fCar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fCar.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fCar.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fCar.cs [Design]",
+              "RelativeToolTip": "Car-Renting\\GUI\\fCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fCar.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fCar.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fCar.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fCar.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fCar.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAWwHYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Model\\Client.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Client.cs",
+              "RelativeToolTip": "Car-Renting\\Model\\Client.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\ClientDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\ClientDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\ClientDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\ClientDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fRent.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRent.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRent.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRent.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fRent.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAIwHEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fDiscount.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs*",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fClient.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fClient.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fClient.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Car.cs",
+              "RelativeToolTip": "Car-Renting\\Model\\Car.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fBillDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fBillDashBoard.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fBillDashBoard.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fBillDashBoard.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fBillDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Model\\Account.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Account.cs",
+              "RelativeToolTip": "Car-Renting\\Model\\Account.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\RentDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\RentDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\RentDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\RentDAO.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\UserDAO.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Bill.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Model\\Bill.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\Bill.cs",
+              "RelativeToolTip": "Car-Renting\\Model\\Bill.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fCarReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fCarReturn.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fCarReturn.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fCarReturn.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fCarReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contraint.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\Contraint.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Utilites\\Contraint.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\Contraint.cs",
+              "RelativeToolTip": "Car-Renting\\Utilites\\Contraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RatingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\RatingDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\RatingDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\RatingDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\RatingDAO.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwD8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiscountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\BUS\\DiscountManager.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\BUS\\DiscountManager.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\BUS\\DiscountManager.cs",
+              "RelativeToolTip": "Car-Renting\\BUS\\DiscountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fBillDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fBillDashBoard.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fBillDashBoard.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fBillDashBoard.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fBillDashBoard.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAIwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarReturnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\BUS\\CarReturnManager.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\BUS\\CarReturnManager.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\BUS\\CarReturnManager.cs",
+              "RelativeToolTip": "Car-Renting\\BUS\\CarReturnManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PDFGenerate.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\PDFGenerate.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Utilites\\PDFGenerate.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\PDFGenerate.cs",
+              "RelativeToolTip": "Car-Renting\\Utilites\\PDFGenerate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Upload.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\Upload.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Utilites\\Upload.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Utilites\\Upload.cs",
+              "RelativeToolTip": "Car-Renting\\Utilites\\Upload.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\Model\\User.cs",
+              "RelativeToolTip": "Car-Renting\\Model\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fDashboardUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fDashboardUser.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fDashboardUser.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fDashboardUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fDashboardUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fDashboardUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fDashboardUser.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fDashboardUser.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fDashboardUser.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fDashboardUser.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAmwHIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fClient.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fClient.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fClient.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fClient.cs",
+              "RelativeToolTip": "Car-Renting\\GUI\\fClient.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwGIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fRent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRent.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRent.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fRent.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fRent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fRenting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRenting.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRenting.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fRenting.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fRenting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fRentCancel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRentCancel.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRentCancel.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fRentCancel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fRentCancel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fRentSubmit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fRentSubmit.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fRentSubmit.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fRentSubmit.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fRentSubmit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fSubmitCarReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fSubmitCarReturn.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fSubmitCarReturn.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fSubmitCarReturn.cs [Design]",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fSubmitCarReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fStatusRent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fStatusRent.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fStatusRent.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fStatusRent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fStatusRent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "fNavigation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fNavigation.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fNavigation.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fNavigation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fNavigation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fLogin.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fLogin.cs",
+              "ToolTip": "C:\\Users\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sawse\\Documents\\Car-Renting-main\\Car-Renting\\GUI\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fDiscount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\GUI\\fDiscount.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs [Design]*",
+              "RelativeToolTip": "..\\..\\Car-Renting-main\\Car-Renting\\GUI\\fDiscount.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-18T09:05:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\BaseDAO.cs",
+              "RelativeDocumentMoniker": "Car-Renting\\DAO\\BaseDAO.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Diff\\Car-Renting-main\\Car-Renting\\DAO\\BaseDAO.cs",
+              "RelativeToolTip": "Car-Renting\\DAO\\BaseDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:05:36.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

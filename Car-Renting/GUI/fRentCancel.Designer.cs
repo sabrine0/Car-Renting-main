@@ -1,0 +1,380 @@
+﻿namespace Car_Renting
+{
+    partial class fRentCancel
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.btnCancellationReasonSubmit = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.txtCancellationReason = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.btnRentCancelDetail = new System.Windows.Forms.Button();
+            this.lbael = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.btnSearch = new FontAwesome.Sharp.IconButton();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.btnFilter = new FontAwesome.Sharp.IconButton();
+            this.btnSearchdfd = new FontAwesome.Sharp.IconButton();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.btSua = new System.Windows.Forms.Button();
+            this.btThem = new System.Windows.Forms.Button();
+            this.txtTim = new System.Windows.Forms.TextBox();
+            this.gvCarCancel = new System.Windows.Forms.DataGridView();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel3.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gvCarCancel)).BeginInit();
+            this.panel2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // btnCancellationReasonSubmit
+            // 
+            this.btnCancellationReasonSubmit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.btnCancellationReasonSubmit.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnCancellationReasonSubmit.Location = new System.Drawing.Point(212, 477);
+            this.btnCancellationReasonSubmit.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnCancellationReasonSubmit.Name = "btnCancellationReasonSubmit";
+            this.btnCancellationReasonSubmit.Size = new System.Drawing.Size(186, 54);
+            this.btnCancellationReasonSubmit.TabIndex = 63;
+            this.btnCancellationReasonSubmit.Text = "Submit";
+            this.btnCancellationReasonSubmit.UseVisualStyleBackColor = false;
+            this.btnCancellationReasonSubmit.Click += new System.EventHandler(this.btnCancellationReasonSubmit_Click);
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Gainsboro;
+            this.label1.Location = new System.Drawing.Point(243, 32);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(116, 29);
+            this.label1.TabIndex = 50;
+            this.label1.Text = "Canceled";
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Controls.Add(this.txtCancellationReason);
+            this.panel3.Controls.Add(this.label14);
+            this.panel3.Controls.Add(this.btnCancellationReasonSubmit);
+            this.panel3.Controls.Add(this.label1);
+            this.panel3.Controls.Add(this.btnRentCancelDetail);
+            this.panel3.Controls.Add(this.lbael);
+            this.panel3.Controls.Add(this.label20);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel3.Location = new System.Drawing.Point(944, 0);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(470, 708);
+            this.panel3.TabIndex = 15;
+            // 
+            // txtCancellationReason
+            // 
+            this.txtCancellationReason.Location = new System.Drawing.Point(46, 298);
+            this.txtCancellationReason.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtCancellationReason.Multiline = true;
+            this.txtCancellationReason.Name = "txtCancellationReason";
+            this.txtCancellationReason.Size = new System.Drawing.Size(349, 110);
+            this.txtCancellationReason.TabIndex = 65;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.ForeColor = System.Drawing.Color.Gainsboro;
+            this.label14.Location = new System.Drawing.Point(42, 226);
+            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(142, 20);
+            this.label14.TabIndex = 64;
+            this.label14.Text = "Cancel Description";
+            // 
+            // btnRentCancelDetail
+            // 
+            this.btnRentCancelDetail.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.btnRentCancelDetail.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnRentCancelDetail.Location = new System.Drawing.Point(249, 115);
+            this.btnRentCancelDetail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnRentCancelDetail.Name = "btnRentCancelDetail";
+            this.btnRentCancelDetail.Size = new System.Drawing.Size(106, 54);
+            this.btnRentCancelDetail.TabIndex = 49;
+            this.btnRentCancelDetail.Text = "More";
+            this.btnRentCancelDetail.UseVisualStyleBackColor = false;
+            this.btnRentCancelDetail.Click += new System.EventHandler(this.btnRentCancelDetail_Click);
+            // 
+            // lbael
+            // 
+            this.lbael.AutoSize = true;
+            this.lbael.ForeColor = System.Drawing.Color.Gainsboro;
+            this.lbael.Location = new System.Drawing.Point(42, 132);
+            this.lbael.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbael.Name = "lbael";
+            this.lbael.Size = new System.Drawing.Size(110, 20);
+            this.lbael.TabIndex = 43;
+            this.lbael.Text = "Detail Contact";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.ForeColor = System.Drawing.Color.Gainsboro;
+            this.label20.Location = new System.Drawing.Point(42, 40);
+            this.label20.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(56, 20);
+            this.label20.TabIndex = 39;
+            this.label20.Text = "Status";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(16, 60);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(132, 28);
+            this.comboBox1.TabIndex = 4;
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(44)))), ((int)(((byte)(52)))));
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.Controls.Add(this.panel4);
+            this.panel1.Controls.Add(this.btnFilter);
+            this.panel1.Controls.Add(this.btnSearchdfd);
+            this.panel1.Controls.Add(this.comboBox2);
+            this.panel1.Controls.Add(this.comboBox1);
+            this.panel1.Controls.Add(this.btSua);
+            this.panel1.Controls.Add(this.btThem);
+            this.panel1.Controls.Add(this.txtTim);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(934, 107);
+            this.panel1.TabIndex = 3;
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Controls.Add(this.btnSearch);
+            this.panel4.Controls.Add(this.txtSearch);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(932, 107);
+            this.panel4.TabIndex = 6;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSearch.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnSearch.IconChar = FontAwesome.Sharp.IconChar.MagnifyingGlass;
+            this.btnSearch.IconColor = System.Drawing.Color.Gainsboro;
+            this.btnSearch.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnSearch.IconSize = 20;
+            this.btnSearch.Location = new System.Drawing.Point(230, 38);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(30, 31);
+            this.btnSearch.TabIndex = 5;
+            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // txtSearch
+            // 
+            this.txtSearch.Location = new System.Drawing.Point(15, 43);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(180, 26);
+            this.txtSearch.TabIndex = 1;
+            // 
+            // btnFilter
+            // 
+            this.btnFilter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFilter.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnFilter.IconChar = FontAwesome.Sharp.IconChar.Filter;
+            this.btnFilter.IconColor = System.Drawing.Color.Gainsboro;
+            this.btnFilter.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnFilter.IconSize = 20;
+            this.btnFilter.Location = new System.Drawing.Point(338, 60);
+            this.btnFilter.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnFilter.Name = "btnFilter";
+            this.btnFilter.Size = new System.Drawing.Size(30, 31);
+            this.btnFilter.TabIndex = 5;
+            this.btnFilter.UseVisualStyleBackColor = true;
+            // 
+            // btnSearchdfd
+            // 
+            this.btnSearchdfd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSearchdfd.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnSearchdfd.IconChar = FontAwesome.Sharp.IconChar.MagnifyingGlass;
+            this.btnSearchdfd.IconColor = System.Drawing.Color.Gainsboro;
+            this.btnSearchdfd.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnSearchdfd.IconSize = 20;
+            this.btnSearchdfd.Location = new System.Drawing.Point(231, 15);
+            this.btnSearchdfd.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnSearchdfd.Name = "btnSearchdfd";
+            this.btnSearchdfd.Size = new System.Drawing.Size(30, 31);
+            this.btnSearchdfd.TabIndex = 5;
+            this.btnSearchdfd.UseVisualStyleBackColor = true;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Location = new System.Drawing.Point(174, 60);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(132, 28);
+            this.comboBox2.TabIndex = 4;
+            // 
+            // btSua
+            // 
+            this.btSua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.btSua.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btSua.Location = new System.Drawing.Point(798, 22);
+            this.btSua.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btSua.Name = "btSua";
+            this.btSua.Size = new System.Drawing.Size(106, 54);
+            this.btSua.TabIndex = 3;
+            this.btSua.Text = "Sửa";
+            this.btSua.UseVisualStyleBackColor = false;
+            // 
+            // btThem
+            // 
+            this.btThem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.btThem.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btThem.Location = new System.Drawing.Point(645, 22);
+            this.btThem.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btThem.Name = "btThem";
+            this.btThem.Size = new System.Drawing.Size(104, 54);
+            this.btThem.TabIndex = 3;
+            this.btThem.Text = "Thêm";
+            this.btThem.UseVisualStyleBackColor = false;
+            // 
+            // txtTim
+            // 
+            this.txtTim.Location = new System.Drawing.Point(16, 15);
+            this.txtTim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtTim.Name = "txtTim";
+            this.txtTim.Size = new System.Drawing.Size(180, 26);
+            this.txtTim.TabIndex = 1;
+            // 
+            // gvCarCancel
+            // 
+            this.gvCarCancel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gvCarCancel.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.gvCarCancel.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.OrangeRed;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.gvCarCancel.DefaultCellStyle = dataGridViewCellStyle1;
+            this.gvCarCancel.GridColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.gvCarCancel.Location = new System.Drawing.Point(0, 117);
+            this.gvCarCancel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.gvCarCancel.Name = "gvCarCancel";
+            this.gvCarCancel.RowHeadersWidth = 51;
+            this.gvCarCancel.Size = new System.Drawing.Size(934, 708);
+            this.gvCarCancel.TabIndex = 4;
+            this.gvCarCancel.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gvCarCancel_CellClick);
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.panel1);
+            this.panel2.Controls.Add(this.gvCarCancel);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(934, 708);
+            this.panel2.TabIndex = 16;
+            // 
+            // fRentCancel
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(79)))), ((int)(((byte)(78)))));
+            this.ClientSize = new System.Drawing.Size(1414, 708);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "fRentCancel";
+            this.Text = "fRentCancel";
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gvCarCancel)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Button btnCancellationReasonSubmit;
+        private FontAwesome.Sharp.IconButton btnSearchdfd;
+        private FontAwesome.Sharp.IconButton btnFilter;
+        private System.Windows.Forms.Label label1;
+        private FontAwesome.Sharp.IconButton btnSearch;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button btnRentCancelDetail;
+        private System.Windows.Forms.Label lbael;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.TextBox txtSearch;
+        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.Button btSua;
+        private System.Windows.Forms.Button btThem;
+        private System.Windows.Forms.TextBox txtTim;
+        private System.Windows.Forms.DataGridView gvCarCancel;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.TextBox txtCancellationReason;
+        private System.Windows.Forms.Label label14;
+    }
+}
